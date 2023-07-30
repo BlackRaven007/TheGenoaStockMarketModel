@@ -1,0 +1,2 @@
+# TheGenoaStockMarketModel
+Dissertation
